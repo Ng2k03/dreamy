@@ -1,5 +1,4 @@
-# dreamy
-# an ecommerce website that has revolutionized the furniture market. 
+# dreamy - an ecommerce website that has revolutionized the furniture market. 
 
 # Your Ultimate Destination for Affordable, High-Quality Furniture
 
