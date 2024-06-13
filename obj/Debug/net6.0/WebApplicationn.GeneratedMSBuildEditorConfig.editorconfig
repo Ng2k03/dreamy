@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplicationn
+build_property.RootNamespace = WebApplicationn
+build_property.ProjectDir = C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\geedh\source\repos\WebApplicationn - Copy\WebApplicationn
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/Armchair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcQXJtY2hhaXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/Bedframe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcQmVkZnJhbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/DiningTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcRGluaW5nVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/DropLeafTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcRHJvcExlYWZUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LargeStorage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTGFyZ2VTdG9yYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LEDLightingChain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTEVETGlnaHRpbmdDaGFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LEDSolarLamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTEVEU29sYXJMYW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LEDSolarTableLamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTEVEU29sYXJUYWJsZUxhbXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LEDSpotlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTEVEU3BvdGxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/LEDTableLamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTEVEVGFibGVMYW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/MinimalRoseArmchair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTWluaW1hbFJvc2VBcm1jaGFpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/ModernSofa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcTW9kZXJuU29mYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/ShoeCabinet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcU2hvZUNhYmluZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/SideTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcU2lkZVRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/StorageBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcU3RvcmFnZUJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/StorageCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcU3RvcmFnZUNhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/TableLamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcVGFibGVMYW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/TableLampBulb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcVGFibGVMYW1wQnVsYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/VintageCabinet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcVmludGFnZUNhYmluZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/AllProducts/WorkLamp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsUHJvZHVjdHNcV29ya0xhbXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/AllProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/Clients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/PartialCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5UG9saWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Home/TermsAndConditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtc0FuZENvbmRpdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/geedh/source/repos/WebApplicationn - Copy/WebApplicationn/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-46hfq7vt1y
