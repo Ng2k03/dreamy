@@ -32,3 +32,15 @@ dreamy is more than just a furniture eCommerce website; it’s a game-changer in
 
 
 ![localhost_7133_home_](https://github.com/Ng2k03/dreamy/assets/73320332/36341ea0-b0cb-4724-bab8-981116a4c8d6)
+
+![localhost_7133_home_aboutus](https://github.com/Ng2k03/dreamy/assets/73320332/a45e181b-1845-48cc-9b98-6d3b178ee5cc)
+
+![localhost_7133_home_allproducts](https://github.com/Ng2k03/dreamy/assets/73320332/c5ff5ed5-2a13-4971-bcdd-2374e40a54fa)
+
+![localhost_7133_home_clients](https://github.com/Ng2k03/dreamy/assets/73320332/bb8f15ef-50f6-41b2-bbb0-6ea1097e5757)
+
+![localhost_7133_home_contactus](https://github.com/Ng2k03/dreamy/assets/73320332/2ae93636-a1fc-4a9d-95b2-c86b0d1435f7)
+
+![localhost_7133_home_ledsolartablelamp](https://github.com/Ng2k03/dreamy/assets/73320332/cf66c4e7-bcd5-4ae3-b20d-58e4e2ecfd9c)
+
+![localhost_7133_home_mycart(Nest Hub Max)](https://github.com/Ng2k03/dreamy/assets/73320332/75673d06-6c2a-4878-a1ac-27c734b8fc44)
