@@ -1,5 +1,6 @@
 # dreamy - an ecommerce website that has revolutionized the furniture market. 
 
+
 # Your Ultimate Destination for Affordable, High-Quality Furniture
 
 In the ever-evolving world of online shopping, finding the perfect balance between affordability and quality can be a daunting task, especially when it comes to furniture. Enter dreamy, an eCommerce website that has revolutionized the furniture market. dreamy is not just another furniture store; it is a one-stop destination that stands out from the crowd with its exceptional offerings. Here’s why dreamy is better than other furniture websites and how it ensures high-quality furniture at the most affordable prices.
@@ -23,10 +24,11 @@ In an age where sustainability is more important than ever, dreamy is committed 
 dreamy understands that waiting for furniture can be frustrating. That's why the website offers fast and reliable delivery options. With warehouses strategically located to optimize delivery routes, dreamy ensures that your furniture arrives quickly and in perfect condition. The platform also provides real-time tracking, so you can stay updated on your order's progress from the moment it ships to the moment it arrives at your door.
 
 # Innovative Features
-To enhance the shopping experience, dreamy incorporates innovative features such as augmented reality (AR) tools that allow customers to visualize furniture in their own homes before making a purchase. This cutting-edge technology helps customers make confident decisions, ensuring that the furniture they choose will perfectly complement their space.
+To enhance the shopping experience, dreamy incorporates innovative features such as producing an invoice PDF after the customer makes a purchase. This feature helps customers make confident decisions, ensuring that the furniture they choose will perfectly complement their space.
 
 # Conclusion
 dreamy is more than just a furniture eCommerce website; it’s a game-changer in the industry. By offering the perfect blend of affordability, high quality, diverse styles, exceptional customer service, sustainability, and innovative shopping tools, dreamy has set a new standard for online furniture shopping. Discover the dreamy difference today and transform your home with furniture that fits your style and budget perfectly.
+
 
 
 ![localhost_7133_home_](https://github.com/Ng2k03/dreamy/assets/73320332/36341ea0-b0cb-4724-bab8-981116a4c8d6)
